@@ -50,7 +50,9 @@ brick.)
 
 ### Complete Models
 
-- 2x20 straight rail segment
+- 8x16 straight rail segment (Lego standard)
+- 8x20 straight rail segment (4 units longer than standard)
+
 
 I will add more as I construct them.
 
