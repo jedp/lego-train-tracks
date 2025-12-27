@@ -14,7 +14,8 @@ The following track geometries are included in the stl export file:
 - 8x16 straight rail segment (Lego standard: ME901-ST)
 - 8x20 straight rail segment
 - 8x8 straight rail (Lego half length: ME901-HF)
-- 8x20, 56 stud radius (Lego: ME901-56)
+- 8x20, 56 stud radius, 22.5˚ (Lego: ME901-56)
+- 816, 40 stud radius, 22.5˚ (Lego: 53400)
 
 I will continue add more as I construct them.
 
