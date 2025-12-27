@@ -7,6 +7,19 @@ Parametric models for Lego train tracks.
 
 ![model](./r56-body.png)
 
+### Complete Models
+
+The following track geometries are included in the stl export file:
+
+- 8x16 straight rail segment (Lego standard: ME901-ST)
+- 8x20 straight rail segment
+- 8x8 straight rail (Lego half length: ME901-HF)
+- 8x20, 56 stud radius (Lego: ME901-56)
+
+I will continue add more as I construct them.
+
+## Overview
+
 Should be fairly printer agnostic, though I've only tested on my Prusa i3 MK3S.
 There are slop parameters that can be adjusted for some of the finer details.
 
@@ -21,11 +34,9 @@ standard printer nozzle is 0.4mm in diameter.
 
 ![print](./tracks-joined.png)
 
-### Components
+### Model Components
 
-Small bits you can copy around to make larger bits.
-
-Use this if you're unable to sweep the track profile along a path.
+Also included are small bits you can copy around to make larger bits.
 
 Unit measurement is the length of the edge of a standard Lego 1x1 block.
 
@@ -40,6 +51,9 @@ Print the 1x8 coupling sleeper and verify that it snaps into your real Lego
 tracks. If it doesn't, spend some time with your slicer and/or adjust the slop
 parameters in the model.
 
+You don't need the rails if you can sweep the profile of the track along a
+curve.
+
 Bodies jumbled around the origin so you can imagine how to copy and move them
 to build tracks:
 
@@ -50,16 +64,6 @@ track coupling you check that the pivot point is on one of the right edges.
 This is the only piece whose length is not a multiple of the standard Lego 1x1
 brick.
 
-When making curved tracks, you're going to have to sweep them along a path that
-follows the pattern you lay out for the sleepers.
-
-### Complete Models
-
-- 8x16 straight rail segment (Lego standard: ME901-ST)
-- 8x20 straight rail segment
-- 8x8 straight rail (Lego half length: ME901-HF)
-- 8x20, 56 stud radius (Lego: ME901-56)
-
-I will continue add more as I construct them.
-
+When making curved tracks, you're going to have to sweep the rails along a path
+that follows the pattern you lay out for the sleepers.
 
