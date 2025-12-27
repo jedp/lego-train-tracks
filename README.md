@@ -50,10 +50,10 @@ brick.)
 
 ### Complete Models
 
-- 8x16 straight rail segment (Lego standard)
-- 8x20 straight rail segment (4 units longer than standard)
+- 8x16 straight rail segment (Lego standard: ME901-ST)
+- 8x20 straight rail segment
+- 8x20, 56 stud radius (Lego standard: ME901-56)
 
-
-I will add more as I construct them.
+I will continue add more as I construct them.
 
 
