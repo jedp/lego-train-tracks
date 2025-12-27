@@ -25,6 +25,8 @@ standard printer nozzle is 0.4mm in diameter.
 
 Small bits you can copy around to make larger bits.
 
+Use this if you're unable to sweep the track profile along a path.
+
 Unit measurement is the length of the edge of a standard Lego 1x1 block.
 
 - 2x8 sleeper
@@ -43,16 +45,20 @@ to build tracks:
 
 ![models](./jumble-of-bodies.png)
 
-(If you end up assembling your own, make sure when you move and rotate that
+If you end up assembling your own, make sure when you move and rotate that
 track coupling you check that the pivot point is on one of the right edges.
 This is the only piece whose length is not a multiple of the standard Lego 1x1
-brick.)
+brick.
+
+When making curved tracks, you're going to have to sweep them along a path that
+follows the pattern you lay out for the sleepers.
 
 ### Complete Models
 
 - 8x16 straight rail segment (Lego standard: ME901-ST)
 - 8x20 straight rail segment
-- 8x20, 56 stud radius (Lego standard: ME901-56)
+- 8x8 straight rail (Lego half length: ME901-HF)
+- 8x20, 56 stud radius (Lego: ME901-56)
 
 I will continue add more as I construct them.
 
