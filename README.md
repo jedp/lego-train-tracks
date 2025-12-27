@@ -5,7 +5,7 @@ Parametric models for Lego train tracks.
 - [F3D](./lego-train-tracks.f3d) (Original)
 - [STL](./lego-train-tracks.stl) (Export)
 
-![model](./Fusion360-body.png)
+![model](./r56-body.png)
 
 Should be fairly printer agnostic, though I've only tested on my Prusa i3 MK3S.
 There are slop parameters that can be adjusted for some of the finer details.
